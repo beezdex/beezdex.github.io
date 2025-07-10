@@ -4,7 +4,7 @@
   "area": "themes",
   "main": "dist/dist.css",
   "showInGallery": true,
-  "identifier": "com.sncommunity.dracula-theme",
+  "identifier": "dracula-theme",
   "version": "1.2.0",
   "url": "https://beezdex.github.io/themeo/dist/dist.css",
   "download_url": "",
