@@ -54,3 +54,16 @@
   background-color: #e9d9c7;
   color: var(--sn-stylekit-contrast-foreground-color);
 }
+
+.p-4{
+	padding: 0.5rem !important;
+}
+
+.py-4{
+	padding-top: 0.5rem !important;
+	padding-bottom: 0.5rem !important;
+}
+
+.text-lg{
+	    font-size: 1rem !important;
+}
