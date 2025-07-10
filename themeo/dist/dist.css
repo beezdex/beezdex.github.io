@@ -1,4 +1,5 @@
 :root {
+  tab-size: 4 !important;
   --background: #282a36;
   --secondary-background: #303342;
   --current-line: #44475a;
@@ -73,4 +74,8 @@
 
 #plus-editor label kbd {
   background-color: var(--sn-stylekit-background-color);
+}
+
+.editor-content, #editor-content {
+  tab-size: 4 !important;
 }
