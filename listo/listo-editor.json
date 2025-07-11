@@ -1,0 +1,18 @@
+{
+  "name": "Checklist",
+  "content_type": "SN|Component",
+  "main": "dist/index.html",
+  "area": "editor-editor",
+  "spellcheckControl": true,
+  "note_type": "task",
+  "file_type": "md",
+  "showInGallery": true,
+  "identifier": "listo-editor",
+  "version": "1.6.2",
+  "url": "https://beezdex.github.io/listo/dist/index.html",
+  "latest_url": "https://beezdex.github.io/listo/listo-editor.json",
+  "publisher": "beezdex",
+  "description": "A great way to manage short-term and long-term to-do's. You can mark tasks as completed, change their order, and edit the text naturally in place.",
+  "base64Hash": "f999a54396e2d0d3f94011f10bc7b79484a24921053bc843875f7f8ac2d80015",
+  "binaryHash": "b559a1276847ed9959545b8ecd70c4a8314945da33158b6d79369983e48ac59f"
+}
